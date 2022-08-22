@@ -1,0 +1,4 @@
+#Sat Aug 06 14:37:54 WAT 2022
+base.0=/Users/j/StudioProjects/bmi_calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
